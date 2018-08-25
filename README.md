@@ -8,7 +8,7 @@ centers. Contributors include:
 * Brookhaven National Lab
 * Compute Canada
 * European XFEL
-* Large Synoptic Survey
+* Large Synoptic Survey Telescope
 * Lawrence Berkeley National Laboratory
 * National Energy Research Scientific Computing Center
     * Our deployment repo: https://github.com/NERSC/jupyterhub-deploy
