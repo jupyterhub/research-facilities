@@ -11,5 +11,6 @@ centers. Contributors include:
 * Large Synoptic Survey
 * Lawrence Berkeley National Laboratory
 * National Energy Research Scientific Computing Center
+    * Our deployment repo: https://github.com/NERSC/jupyterhub-deploy
 
 There is a [jupyter-research-facilties Google Group](https://groups.google.com/forum/#!forum/jupyter-research-facilities).
