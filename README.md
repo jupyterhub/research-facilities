@@ -1,7 +1,8 @@
 # Jupyter at Research Facilities
 
 This is a list of resources for developing, deploying, and using Jupyter at
-Research Facilties. Contributors include:
+research facilities, including experimental/observational facilities and HPC
+centers. Contributors include:
 
 * Argonne National Lab
 * Brookhaven National Lab
