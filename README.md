@@ -9,8 +9,7 @@ centers. Contributors include:
 * Compute Canada
 * European XFEL
 * Large Synoptic Survey Telescope
-* Lawrence Berkeley National Laboratory
-* National Energy Research Scientific Computing Center
+* National Energy Research Scientific Computing Center (NERSC) at Berkeley Lab
     * Our deployment repo: https://github.com/NERSC/jupyterhub-deploy
 
 There is a [jupyter-research-facilties Google Group](https://groups.google.com/forum/#!forum/jupyter-research-facilities).
