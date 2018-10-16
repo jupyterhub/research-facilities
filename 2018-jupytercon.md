@@ -1,6 +1,6 @@
 # Jupyter at Research Facilities Working Group
 
-Chairs: Hans Fanghor
+Chairs: Hans Fangohr
 
 ## Meeting details
 
