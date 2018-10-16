@@ -5,7 +5,7 @@ Chairs: Hans Fangohr
 ## Meeting details
 
 The Jupyter at Research Facilities working group will be meeting during the  
-JupyterCon Community Sprint from 9:00am to 5:00pm on Saturday, August 25, at the Hilton Midtown (Murray Hill), sponsored by Bloomberg.
+JupyterCon Community Sprint from 9:00am to 5:00pm on Saturday, 25 August 2018 at the Hilton Midtown (Murray Hill), sponsored by Bloomberg.
 
 ## Objectives
 
